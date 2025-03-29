@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: THARIKA S
 
-### Register Number:
+### Register Number: 212222230159
 
 ```python
 class IrisClassifier(nn.Module):
